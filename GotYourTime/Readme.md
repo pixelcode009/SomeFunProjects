@@ -11,6 +11,8 @@ You have to install these python libraries to get started
 3) Seaborn
 4) Matplotlib
 
+<img src="https://github.com/yashagrawal300/SomeFunProjects/blob/master/GotYourTime/Figure_1.png">
+
 
 
 
