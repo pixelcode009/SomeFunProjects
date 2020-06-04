@@ -11,7 +11,13 @@ You have to install these python libraries to get started
 3) Seaborn
 4) Matplotlib
 
+Run the getTask.py as soon as you start your PC and stop it whenever you are done.
+Run the getAnalytics.py to get this graph showing.
+
+
+
 <img src="https://github.com/yashagrawal300/SomeFunProjects/blob/master/GotYourTime/Figure_1.png">
+
 
 
 
