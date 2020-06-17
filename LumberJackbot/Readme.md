@@ -9,4 +9,4 @@ The Highest score that it made on my machine is 436 which took 56.6 seconds and 
 
 
 
-<img src = "https://github.com/yashagrawal300/SomeFunProjects/blob/master/LumberJackbot/Annotation%202020-06-17%20235438.png", height = 400 width = 600>
+<img src = "https://github.com/yashagrawal300/SomeFunProjects/blob/master/LumberJackbot/Annotation%202020-06-17%20235438.png" height = 400 width = 600>
